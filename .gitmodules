@@ -4,3 +4,9 @@
 [submodule "locale"]
 	path = locale
 	url = https://github.com/OpenDroneMap/WebODM-Locale
+[submodule "coreplugins/projects-admin"]
+	path = coreplugins/projects-admin
+	url = https://github.com/BuildmodeOne/odm-projects-admin.git
+[submodule "coreplugins/sharing-control"]
+	path = coreplugins/sharing-control
+	url = https://github.com/BuildmodeOne/odm-sharing-control.git
