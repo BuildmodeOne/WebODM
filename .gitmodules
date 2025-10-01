@@ -10,3 +10,6 @@
 [submodule "coreplugins/sharing-control"]
 	path = coreplugins/sharing-control
 	url = https://github.com/BuildmodeOne/odm-sharing-control.git
+[submodule "coreplugins/app-customizer"]
+	path = coreplugins/app-customizer
+	url = https://github.com/BuildmodeOne/odm-app-customizer.git
