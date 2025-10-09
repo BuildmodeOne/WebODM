@@ -13,3 +13,6 @@
 [submodule "coreplugins/app-customizer"]
 	path = coreplugins/app-customizer
 	url = https://github.com/BuildmodeOne/odm-app-customizer.git
+[submodule "coreplugins/droneup-api"]
+	path = coreplugins/droneup-api
+	url = https://github.com/BuildmodeOne/odm-droneup-api.git
